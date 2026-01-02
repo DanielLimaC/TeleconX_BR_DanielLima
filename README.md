@@ -63,4 +63,4 @@ Exploração visual focada em entender as diferenças comportamentais entre clie
 3. Execute o script principal ou abra o arquivo `.ipynb` no **Google Colab**.
 
 ---
-**Desenvolvido por [Seu Nome]** 🚀 *Conecte-se comigo no [LinkedIn](SEU_LINK_AQUI)*
+**Desenvolvido por Daniel Marques Lima** 🚀 *Conecte-se comigo no https://www.linkedin.com/in/daniel-m-lima/*
